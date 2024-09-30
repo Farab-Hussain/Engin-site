@@ -1,25 +1,25 @@
-**Golf Animation Showcase: Principles and Practices**__
+_**Create a 3D Animated Website Using HTML, CSS & JS**_
 
 **About This Project**
 
-This website serves as a showcase of my work, centered around golf, emphasizing key animation principles and their application to HTML elements using CSS. It features a visually engaging front page that highlights various animation techniques. Additionally, the project explores more advanced topics, demonstrating the use of JavaScript libraries and frameworks to create interactive and dynamic animations. This project serves as a testament to my skills in web development and design, emphasizing creativity and technical proficiency.
+This project is an impressive 3D animated website built using HTML, CSS, and JavaScript. Inspired by the stunning design of Magma Awwwards, it incorporates captivating scrolling animations utilizing the Canvas API. The website showcases modern web design techniques, combining immersive animations with a clean and intuitive layout to enhance user experience.
 
-**Features**
+**Key Features**
 
-Key Animation Principles: Explore essential animation principles applied to golf-themed content.
+3D Animations: Engaging three-dimensional effects that create a dynamic user experience.
 
-Engaging Front Page: A visually appealing layout showcasing various animation techniques.
+Scrolling Animations: Smooth and visually appealing animations triggered by scrolling.
 
-Advanced Animation Techniques: Utilizes JavaScript libraries and frameworks for interactive animations.
+Canvas API: Utilizes the HTML5 Canvas for rendering animations and graphics.
 
-Responsive Design: The site is designed to be accessible and visually appealing across devices.
+Responsive Design: Optimized for various devices, ensuring a seamless experience across screens.
 
 **Technologies Used**
 
 HTML: Structure of the web pages.
 
-CSS: Styling and animations for a modern look and feel.
+CSS: Styling and layout for a modern look.
 
-JavaScript: Interactivity and dynamic features.
+JavaScript: Interactivity and animation logic.
 
-Animation Libraries: Various JavaScript libraries for enhanced animations.
+Canvas API: For rendering 3D animations.
